@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## R function to cache matrix inversion (a potentially time-consuming computation)
+## Written as part f the R programming class in the Data Scientist Coursera Series
 
 ## RMSailors version of the makeCacheMatrix funtion
 
